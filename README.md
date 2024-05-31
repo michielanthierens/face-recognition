@@ -1,4 +1,10 @@
+## credits
+A big part of this repository was written by Wouter Anthierens. Thank you for helping me with this project.
 
+# face recognition program
+this project is about making a connection between a raspberry pi and an arduino circuit. The arduino contains a facecam and has the face recognition program. using i2c it gives a name to the arduino, which is displayed on the screen.
+
+# how to use
 ## installing requirements on raspberry pi
 
 ```
